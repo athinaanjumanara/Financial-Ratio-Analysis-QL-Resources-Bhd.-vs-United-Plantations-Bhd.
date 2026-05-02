@@ -1,0 +1,2 @@
+Conducted a 5-year (2016–2020) comparative financial ratio analysis of two Malaysian listed companies, covering liquidity, efficiency, leverage, and profitability ratios including current ratio, quick ratio, inventory turnover, AR turnover, debt-to-equity, and net profit margin.
+Evaluated investment viability of both companies using trend analysis and graphical comparisons, concluding United Plantations Berhad as the stronger investment candidate due to superior liquidity, solvency, and profitability.
